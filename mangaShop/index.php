@@ -97,6 +97,7 @@
            <footer class="footer"> 
                <div class="container">
                <center>
+                   <button onclick="location.href='admin-panel/index.php'" style="text-align: center;">Admin panel</button>
                    <p>Manga Store </p>
                    <p>Thank for being with us!</p>
                </center>
